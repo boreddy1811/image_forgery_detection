@@ -1,4 +1,4 @@
-# Image Forgery Detection Projects
+# Image Forgery Detection
 
 ## Project Overview
 
@@ -30,14 +30,3 @@ This repository contains two projects focusing on detecting image forgery using 
 - Python 3.x
 - Jupyter Notebook
 - Required libraries: TensorFlow, NumPy, Matplotlib, Scikit-learn, Pillow, and other standard Python libraries.
-
-## Usage
-
-1. Clone the repository.
-2. Install the required libraries.
-3. Open the notebooks in Jupyter and run the cells sequentially to train and evaluate the models.
-
-## Acknowledgements
-
-- The CASIA dataset for providing the necessary images for training and evaluation.
-- The TensorFlow and Keras teams for their robust deep learning frameworks.
